@@ -1,7 +1,3 @@
-Here’s a small `README.md` for your project:
-
----
-
 # Form Validation with JavaScript and Bootstrap
 
 This project is a web-based form validation example built using **HTML**, **CSS (Bootstrap)**, and **JavaScript**. The form includes fields such as **Full Name**, **Email**, **Phone Number**, **Password**, and **Confirm Password**, with custom validation rules implemented for each field.
@@ -22,9 +18,7 @@ This project is a web-based form validation example built using **HTML**, **CSS 
 ### Netlify Deployment
 
 If deployed on **Netlify**, access the live version through the following link:  
-[Netlify Link Here](https://your-netlify-link.netlify.app)
-
-_(Replace the link with the actual one once deployed)_
+[Netlify Link Here](https://formvalidationplasmid.netlify.app/)
 
 ---
 
@@ -37,7 +31,7 @@ Make sure you have **Node.js** installed on your machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/form-validation.git
+   git clone https://github.com/Gojou-Satoru-8/FormValidation
    cd form-validation
    ```
 
