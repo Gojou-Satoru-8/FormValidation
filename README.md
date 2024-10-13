@@ -17,7 +17,7 @@ This project is a web-based form validation example built using **HTML**, **CSS 
 
 ### Netlify Deployment
 
-If deployed on **Netlify**, access the live version through the following link:  
+Access the live version through the following link:  
 [Netlify Link Here](https://formvalidationplasmid.netlify.app/)
 
 ---
