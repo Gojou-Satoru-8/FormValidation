@@ -1,0 +1,28 @@
+header {
+  text-align: center;
+  min-height: 20vh; /* Header takes 20% of the body height */
+  background-color: rgb(221, 242, 238); /* Optional: for visibility */
+}
+
+main {
+  min-height: 70vh;
+  background-color: seashell;
+}
+
+footer {
+  min-height: 10vh;
+  text-align: center;
+
+  font-size: larger;
+  background-color: rgb(221, 242, 238); /* Optional: for visibility */
+}
+
+form {
+  margin: auto;
+  padding: 5% 5px 10px 5%;
+  width: 80%;
+}
+
+form label {
+  font-size: larger;
+}
