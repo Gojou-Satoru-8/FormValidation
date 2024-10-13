@@ -32,7 +32,7 @@ Make sure you have **Node.js** installed on your machine.
 
    ```bash
    git clone https://github.com/Gojou-Satoru-8/FormValidation
-   cd form-validation
+   cd FormValidation
    ```
 
 2. **Install Parcel (Optional):**
